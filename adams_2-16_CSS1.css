@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    font-size: 60px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+h2 {
+  color: black;
+}
+
+.altHeader {
+    color: navy;
+}
+
+div {
+}
+
+.bottomBorder
+{
+    margin-top: 40px;
+    border-bottom: 5px double;
+}
